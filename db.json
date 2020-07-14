@@ -1,0 +1,79 @@
+{
+  "productos": [
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "900",
+      "id": 5
+    },
+    {
+      "nombre": "Mora",
+      "precio": "5500",
+      "id": 6
+    },
+    {
+      "nombre": "Oro",
+      "precio": 1000,
+      "id": 7
+    },
+    {
+      "nombre": "Jugo",
+      "precio": 1500,
+      "id": 8
+    },
+    {
+      "nombre": "Jugo",
+      "precio": 1500,
+      "id": 9
+    },
+    {
+      "nombre": "Jugo",
+      "precio": 1500,
+      "id": 10
+    },
+    {
+      "nombre": "Piña",
+      "precio": 1500,
+      "id": 11
+    },
+    {
+      "nombre": "Piñas",
+      "precio": 2000,
+      "id": 12
+    },
+    {
+      "nombre": "Oro",
+      "precio": 2000,
+      "id": 13
+    },
+    {
+      "nombre": "Plata",
+      "precio": 2000,
+      "id": 14
+    },
+    {
+      "nombre": "Casa",
+      "precio": 2000,
+      "id": 15
+    },
+    {
+      "nombre": "Casas",
+      "precio": 2000,
+      "id": 17
+    },
+    {
+      "nombre": "Casas",
+      "precio": 2000,
+      "id": 18
+    },
+    {
+      "nombre": "Casas",
+      "precio": 2000,
+      "id": 19
+    },
+    {
+      "nombre": "Tomate",
+      "precio": 50,
+      "id": 20
+    }
+  ]
+}
